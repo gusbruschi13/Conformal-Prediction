@@ -1,2 +1,2 @@
 # Conformal-Prediction
-Repositório contendo materiais de estudo sobre Predição Conforme.
+Repositório contendo materiais de estudo sobre Predição Conforme (Conformal Prediction).
