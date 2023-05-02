@@ -6,7 +6,7 @@ Repositório contendo materiais de estudo sobre Predição Conforme (Conformal P
 **Título** | **Link do Artigo** | **Notebook**
 ------------ | ------------ | ------------
 Uma Introdução Prática à Previsão Conforme | [Link](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-pr%C3%A1tica-%C3%A0-previs%C3%A3o-conforme-de4c7479e021) | [Notebook](https://github.com/gusbruschi13/Conformal-Prediction/blob/main/Introdu%C3%A7%C3%A3o-Pr%C3%A1tica-Previs%C3%A3o-Conforme.ipynb)
-Aplicando Previsão Conforme em Modelos de Classificação | [Link](https://medium.com/data-hackers/aplicando-previs%C3%A3o-conforme-em-modelos-de-classifica%C3%A7%C3%A3o-a26b2805ab0) | [Notebook](TBD)
+Aplicando Previsão Conforme em Modelos de Classificação | [Link](https://medium.com/data-hackers/aplicando-previs%C3%A3o-conforme-em-modelos-de-classifica%C3%A7%C3%A3o-a26b2805ab0) | [Notebook](https://github.com/gusbruschi13/Conformal-Prediction/blob/main/Previs%C3%A3o-Conforme-Classifica%C3%A7%C3%A3o.ipynb)
 
 
 
