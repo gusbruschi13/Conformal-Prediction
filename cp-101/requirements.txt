@@ -1,0 +1,13 @@
+jupyter
+watermark
+numpy
+pandas
+openpyxl
+matplotlib
+seaborn
+scikit-learn
+mapie
+feature-engine
+category_encoders
+kds
+scikit-lego
