@@ -1,7 +1,7 @@
 # Conformal-Prediction
 Repositório contendo materiais de estudo sobre Predição Conforme (Conformal Prediction).
 
-- Melhor referência para estudos de Conformal Prediction: https://github.com/valeman/awesome-conformal-prediction
+- Melhor referência para estudos de Conformal Prediction: [https://github.com/valeman/awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction)
 
 ## 📚 Artigos no Medium e Notebooks :
 
